@@ -31,13 +31,11 @@ def generateCrossBox(size)
 		end
 	end
 end
-	
+
 puts "Welcome to TeochewThunder's CrossBox!"
 
 continue = ""
 begin
-	inputValid = false
-
 	puts "Please enter the size of your CrossBox (min 5):" 
 	size = gets.chomp	
 
