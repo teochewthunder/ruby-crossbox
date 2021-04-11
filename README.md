@@ -1,6 +1,6 @@
 # Ruby Crossbox
 
-This is a standard programming puzzle to create a crossed box using a nested `For` loop. The point of this exercise is to be able to detect patterns.
+This is a standard programming puzzle to create a crossed box using a nested `For` loop. The point of this exercise is to be able to detect patterns, and from there, derive formulae.
 
 The steps are as follows:
 1. Implemented a nested `For` loop from 1 to `n`, where `n` is the size of the box. Within the inner `For` loop...
